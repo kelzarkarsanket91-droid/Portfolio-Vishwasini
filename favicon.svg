@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#0c1c30"/>
+  <rect x="2" y="2" width="60" height="60" fill="none" stroke="#3a5d80" stroke-width="1"/>
+  <text x="32" y="41" font-family="monospace" font-size="22" fill="#d8a24e" text-anchor="middle">VB</text>
+</svg>
